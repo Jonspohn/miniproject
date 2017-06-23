@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bubble.h
+
+../include/merg.h
+
+/home/jonathan/miniproject/src/bubble.cpp
+bubble.h
+/home/jonathan/miniproject/src/bubble.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstdio
+-
+
+/home/jonathan/miniproject/src/main.cpp
+bubble.h
+/home/jonathan/miniproject/src/bubble.h
+merg.h
+/home/jonathan/miniproject/src/merg.h
+iostream
+-
+
+/home/jonathan/miniproject/src/merge.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstdio
+-
+merg.h
+/home/jonathan/miniproject/src/merg.h
+

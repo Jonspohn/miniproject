@@ -1,0 +1,3 @@
+/home/jonathan/miniproject/build/CMakeFiles/edit_cache.dir
+/home/jonathan/miniproject/build/CMakeFiles/rebuild_cache.dir
+/home/jonathan/miniproject/build/CMakeFiles/testMain.dir

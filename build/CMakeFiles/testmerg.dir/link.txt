@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testmerg.dir/src/main.cpp.o CMakeFiles/testmerg.dir/src/bubble.cpp.o CMakeFiles/testmerg.dir/src/merg.cpp.o  -o testmerg 
